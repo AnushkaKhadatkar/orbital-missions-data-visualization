@@ -146,5 +146,5 @@ This project demonstrates:
 
 ## 🔗 Connect With Me
 
-👩‍💻 **GitHub:** https://github.com/your-username  
-🔗 **LinkedIn:** https://linkedin.com/in/your-link
+👩‍💻 **GitHub:** https://github.com/AnushkaKhadatkar  
+🔗 **LinkedIn:** https://www.linkedin.com/in/anushka-khadatkar/
